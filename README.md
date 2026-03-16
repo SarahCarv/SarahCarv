@@ -26,6 +26,6 @@ Atualmente estudando e criando projetos com diferentes linguagens e ferramentas.
 
 ## 📫 Contato
 
-[![Gmail](https://img.shields.io/badge/Gmail-Contato-red?logo=gmail)](sarahcarvalho275@gmail.com)
+Gmail: sarahcarvalho275@gmail.com
 
 ⭐ Aqui você encontrará meus projetos, estudos e experimentos em programação.
