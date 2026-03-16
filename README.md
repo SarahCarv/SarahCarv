@@ -18,7 +18,7 @@ Atualmente estudando e criando projetos com diferentes linguagens e ferramentas.
 ## 📚 Atualmente aprendendo
 
 - Diferentes linguagens: Python, C#, Java
-- Criação de sites
+- Criando sites
 - Banco de dados
 - Boas práticas de programação
 - Projetos práticos para portfólio
