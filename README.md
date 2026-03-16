@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**SarahCarv/SarahCarv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou a Sarah!
 
-Here are some ideas to get you started:
+💻 Estudante de informática interessado em desenvolvimento de software e tecnologia.
+Atualmente estudando e criando projetos com diferentes linguagens e ferramentas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+</p>
+
+
+## 📚 Atualmente aprendendo
+
+- Diferentes linguagens: Python, C#, Java
+- Criação de sites
+- Banco de dados
+- Boas práticas de programação
+- Projetos práticos para portfólio
+
+
+## 📫 Contato
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contato-red?logo=gmail)](mailto:sarahcarvalho275@gmail.com)
+
+⭐ Aqui você encontrará meus projetos, estudos e experimentos em programação.
